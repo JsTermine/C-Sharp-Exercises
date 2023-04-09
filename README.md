@@ -5,6 +5,8 @@
  This Repo contains Progress and different Exercises using different Iteration Statements like: Do-, DoWhile- and For.<br/>
  It also contains different uses of Selection Statements like: If, If-Else, SwitchCase.<br/>
  
+ Folders labeled "Aufgabe{n}" are small Assignments/Challenges given by the Instructor after every couple of lectures.
+ 
 # :seedling: About Me
 I'm currently studying at a Computer Science School and learning the adequate skills for becoming a Software Developer.<br/>
 ### :chart_with_upwards_trend: Current Udemy courses im learning are:<br/>
