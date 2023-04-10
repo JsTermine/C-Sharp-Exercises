@@ -15,9 +15,9 @@ namespace Aufgabe66
 
             string[][] freundeArray = new String[][]
             {
-                new String[] {"Levi", "Frank"},    // Ronaldos' Familienmitglieder
-                new String[] {"Noah", "Maurice"},  // Claudias' Familienmitglieder
-                new String[] {"Micha", "Jack"}     // Alberts' Familienmitglieder
+                new String[] {"Ronaldo", "Frank"},    // Ronaldos' Familienmitglieder
+                new String[] {"Elena", "Jackson"},  // Claudias' Familienmitglieder
+                new String[] {"Micha", "John"}     // Alberts' Familienmitglieder
             };
 
 
