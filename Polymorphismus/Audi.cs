@@ -17,7 +17,7 @@ namespace Polymorphismus
             this.Model = model;
         }
 
-        // Überladung der von ZeigeDetails()
+        // Überladung von ZeigeDetails()
         public override void ZeigeDetails()
         {
             Console.WriteLine("Die Marke ist: {0}", Marke);
