@@ -14,10 +14,10 @@ namespace Aufgabe67
             // Erstelle einen Foreachloop in der Main Methode, welcher alle Werte von "Zufriedenheit" auf die Konsole ausgibt
 
             int[] zufriedenheit = new int[] { 1, 2, 3, 4, 5 };
-            int[] zufriedengeitNeu = zufriedenheit;
+            int[] zufriedenheitNeu = zufriedenheit;
 
 
-            foreach (int item in zufriedengeitNeu)
+            foreach (int item in zufriedenheitNeu)
             {
                 Console.WriteLine("Vorheriger Eintrag: {0}", item);
             }
