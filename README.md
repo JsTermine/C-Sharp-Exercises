@@ -1,9 +1,12 @@
 # :speech_balloon: This is my C# Repository
  Sharing my progress learning C# from this Udemy Course:<br/>
  https://www.udemy.com/course/die-komplette-csharp-masterclass/<br/>
+ 
+ IDE: Visual Studio
 
  This Repo contains Progress and different Exercises using different Iteration Statements like: Do-, DoWhile- and For.<br/>
  It also contains different uses of Selection Statements like: If, If-Else, SwitchCase.<br/>
+ OOP, Polymorphism, LINQ and WPF aswell as MS-SQL are also taught in later parts of this course.
  
  Folders labeled "Aufgabe{n}" are small Assignments/Challenges given by the Instructor after every couple of lectures.
  
